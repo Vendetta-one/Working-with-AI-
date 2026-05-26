@@ -2,7 +2,7 @@ from google import genai
 
 #a function that handles the api call
 def generate_response(prompt):
-    jarvis = genai.Client(api_key="AIzaSyAMnBZCclJZE3-skqyLBJK4z1I8NsqwCeE")
+    jarvis = genai.Client(api_key="")
 
     if prompt.lower() == "quit":
      print("Goodbye!")

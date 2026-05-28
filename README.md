@@ -1,0 +1,1 @@
+The purpose here is to share what i am building hands on while learning how to make ai agents from scratch. most of the commited files will be the experimental programs i write (the ones that are functional and also the ones that i am currently struggling/learning with).

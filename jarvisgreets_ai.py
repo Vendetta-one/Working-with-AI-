@@ -1,5 +1,5 @@
 from google import genai
-jarvis = genai.Client(api_key="AIzaSyDuOUgSwTLWqXxjdnAyFbxQAsS8laXmuO8")
+jarvis = genai.Client(api_key="YOUR_API_KEY_HERE")
     
 
 #a function that greets the user with their name 

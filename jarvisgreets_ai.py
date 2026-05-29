@@ -35,6 +35,7 @@ def ask_for_prompt():
         prompt = input("your prompt: ").strip()
         checkfor_keys(prompt)
         
-greeting()
-ask_for_prompt()
+if __name__ == "__main__":
+    greeting()
+    ask_for_prompt()
 
